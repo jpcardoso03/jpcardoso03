@@ -9,7 +9,7 @@ Utilizo para auxiliar minhas aplicações:
 Estou começando a aprender:
 - <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
 Contato:
-- <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> <a href="https://www.linkedin.com/in/joao-pedro-cardoso-89a7b322b" target="-blank">Clique aqui </a>
+- <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> <a href="https://www.linkedin.com/in/joao-pedro-cardoso-fernandes/" target="-blank">Clique aqui </a>
 - <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> jpcardoso0811@gmail.com
 
 Minhas stats:
